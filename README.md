@@ -1,7 +1,5 @@
 # Md Raisul Kibria
 
-## DATE OF BIRTH: 31 August, 1997
-
 ## CONTACT
 - <i class="fa fa-globe" aria-hidden="true"></i> Nationality: Bangladeshi
 - <i class="fa fa-mars" aria-hidden="true"></i> Gender: Male
